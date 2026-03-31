@@ -3,7 +3,7 @@
 
 **Name:** Aekansh Mohan Hariharan  
 **Registration Number:** 25BHI10008  
-**Branch:** B.Tech CSE – Health Informatics 
+**Branch:** B.Tech CSE – Health Informatics    
 **Year:** 2025–2029  
 **Course Code:** CSE0001  
 **Connect with me:** (https://www.linkedin.com/in/aekansh-mohan-2335b53bb/)
