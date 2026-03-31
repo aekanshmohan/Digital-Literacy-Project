@@ -1,6 +1,5 @@
 
-# Digital-literacy-project
-VITYARTHI PROJECT
+# Digital-literacy-project   
 # Digital Literacy Portfolio: Student Ambassador 
 
 **Name:** Aekansh Mohan Hariharan  
